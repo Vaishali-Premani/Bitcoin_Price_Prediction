@@ -67,16 +67,16 @@ Interactive plots are generated to show:
 
 ---
 
-# Project Workflow
+### Project Workflow
 
-Historical Bitcoin Data
-        ↓
-Data Preprocessing
-        ↓
-60-Day Sliding Window Creation
-        ↓
-LSTM Model Training
-        ↓
-Price Prediction
-        ↓
-Streamlit Dashboard Visualization
+- Historical Bitcoin Data  
+↓  
+- Data Preprocessing  
+↓  
+- 60-Day Sliding Window Creation  
+↓  
+- LSTM Model Training  
+↓  
+- Price Prediction  
+↓  
+- Streamlit Dashboard Visualization
